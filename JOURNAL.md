@@ -42,3 +42,14 @@ Visual Feedback:
 ![Screenshot 2025-10-30 at 9.50.42 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNywicHVyIjoiYmxvYl9pZCJ9fQ==--7e398b5edc72e873c69297de6bbd076c6014c28a/Screenshot%202025-10-30%20at%209.50.42%E2%80%AFAM.png)
   
 
+## 10/30/2025 9:52 AM - Designing the Schematic  
+
+nothing much to write about but it took a while had to make sure i had the right resistors and had to find some of the symbols and footprints.
+
+I had to redo the neopixels a couple times and ended up editing the symbol to make it easier to add the capacitor in it and I needed to decide how I wanted to connect them.
+
+I completely forgot about the pull up resistors for the rotary encoder for a while and had to go back and add it.
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6cad489d6799b5d63a4574b23902b2d6186e53ed/image.png)
+  
+
