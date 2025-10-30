@@ -19,8 +19,8 @@ Wiring:
 | 100x     | SMD 10k Resistor                                   |$3.5     |https://www.aliexpress.com/item/1005006198053993.html|
 | 1x       | Pi Pico                                            |$3.5     |https://www.aliexpress.com/item/1005006403553612.html|
 | 100x     | 100nF SMD 0805 capacitors                          |$2     |https://www.aliexpress.com/item/1626652703.html|
-| 1x       | PCB                                  |$15    |
+| 1x       | PCB                                  |$10    |
 
-Total price: $35
+Total price: $30
 
 
