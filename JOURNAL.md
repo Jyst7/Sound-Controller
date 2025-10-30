@@ -53,3 +53,15 @@ I completely forgot about the pull up resistors for the rotary encoder for a whi
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxOCwicHVyIjoiYmxvYl9pZCJ9fQ==--6cad489d6799b5d63a4574b23902b2d6186e53ed/image.png)
   
 
+## 10/30/2025 9:53 AM - PCB creation  
+
+I made the pcb today to size and it took a while because kicad doesnt have an easy way to align stuff in an array if its directly from the schematic it took a couple hours but i got it there. I did all the wiring, and then realized i put the neopixels on the wrong side so I had to redo all that work and rewire it but i finally got it to 0 errors.
+
+I ended up changing up the schematic a bit to make it easier to wire but still in the end to make 0 errors the wiring had to get a bit messy to make sure I got all of the thermal diffusion or something that i needed
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxOSwicHVyIjoiYmxvYl9pZCJ9fQ==--1792c6f780c31c16f8586cb01f38cbf3ae394cb3/image.png)
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcyMCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb783bd53aa5ac8388345e25a01424451d24c4fc/image.png)
+
+  
+
