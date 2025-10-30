@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"D10,D9,D8,D7,D6,D5,D4,D3,D2,D1,D20,D19,D18,D17,D16,D15,D14,D13,D12,D11,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30";"SK6812MINI-E";30;"SK6812MINI";;;
+2;"C29,C30,C28,C27,C26,C25,C24,C23,C22,C21,C20,C19,C18,C17,C16,C15,C14,C13,C12,C11,C10,C9,C8,C7,C6,C5,C4,C3,C2,C1";"C_0805_2012Metric_Pad1.18x1.45mm_HandSolder";30;"C";;;
+3;"R1,R2,R6,R5,R4,R3";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";6;"R10K";;;
+4;"SW1,SW2,SW4";"RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm";3;"RotaryEncoder_Switch";;;
+5;"U1";"RPi_Pico_SMD_TH";1;"Pico";;;
