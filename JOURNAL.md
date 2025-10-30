@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/30/2025 - Deciding on the Idea  
+## 10/30/2025 9:48 AM - Deciding on the Idea  
 
  I always have to go through many tiny menues at the corner of my screen manually adjusting my monitor's brightness and system volume. I use these functions constantly, and it always takes up too much time. I thought, there must be a better way.
 
@@ -22,5 +22,23 @@ Brightness Up/Down: A second knob for this.
 
 Third Programmable function for macros.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNSwicHVyIjoiYmxvYl9pZCJ9fQ==--b8d98af52c371c0e16aa0df980aeb73ae3c770e3/image.png)
+  
+
+## 10/30/2025 9:51 AM - Finding Components  
+
+I decided to make choose some of my components today
+
+Microcontroller: The Raspberry Pi Pico, has plenty of GPIO pins, and is easy to program
+
+![Screenshot 2025-10-30 at 9.49.30 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--27939dc7d2dd91b6013b1f9287c33b942891f5e8/Screenshot%202025-10-30%20at%209.49.30%E2%80%AFAM.png)
+
+Input Controls: I'm going with three Rotary Encoder Buttons. These are perfect as they provide the rotational input for adjustment and the click functionality for muting or resetting.
+
+![Screenshot 2025-10-30 at 9.49.30 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--27939dc7d2dd91b6013b1f9287c33b942891f5e8/Screenshot%202025-10-30%20at%209.49.30%E2%80%AFAM.png)
+
+Visual Feedback:
+ I’ve decided on NeoPixels (SK6812MINI-E LEDs). Crucially, I'm going to use reverse-mounted NeoPixels This will allow the light to act as an indicator of the sound, volume and any other macro.
+
+![Screenshot 2025-10-30 at 9.50.42 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjcxNywicHVyIjoiYmxvYl9pZCJ9fQ==--7e398b5edc72e873c69297de6bbd076c6014c28a/Screenshot%202025-10-30%20at%209.50.42%E2%80%AFAM.png)
   
 
