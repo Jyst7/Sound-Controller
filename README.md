@@ -17,7 +17,7 @@ Wiring:
 | 100x     | SK6812 MINI-E                                      |$10    |https://www.aliexpress.com/item/1005005193716172.html|
 | 5x       | Rotary encoder switch                              |$7     |https://www.aliexpress.com/item/1005003510208490.html|
 | 100x     | SMD 10k Resistor                                   |$6     |https://www.aliexpress.com/item/1005006198053993.html|
-| 2x       | Pi Pico                                            |$6     |https://www.aliexpress.com/item/1005006403553612.html|
+| 1x       | Pi Pico                                            |$6     |https://www.aliexpress.com/item/1005006403553612.html|
 | 100x     | 100nF SMD 0805 capacitors                          |$2     |https://www.aliexpress.com/item/1626652703.html|
 | 1x       | PCB                                  |$20    |
 
