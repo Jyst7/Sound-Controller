@@ -18,9 +18,9 @@ Wiring:
 | 5x       | Rotary encoder switch                              |$7     |https://www.aliexpress.com/item/1005003510208490.html|
 | 100x     | SMD 10k Resistor                                   |$6     |https://www.aliexpress.com/item/1005006198053993.html|
 | 1x       | Pi Pico                                            |$6     |https://www.aliexpress.com/item/1005006403553612.html|
-| 100x     | 100nF SMD 0805 capacitors                          |$2     |https://www.aliexpress.com/item/1626652703.html|
-| 1x       | PCB                                  |$20    |
+| 100x     | 100nF SMD 0805 capacitors                          |$3     |https://www.aliexpress.com/item/1626652703.html|
+| 1x       | PCB                                  |$15    |
 
-Total price: $51
+Total price: $46
 
 
