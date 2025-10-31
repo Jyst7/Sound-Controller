@@ -12,6 +12,10 @@ Schematic
 Wiring:
 <img width="417" height="472" alt="Screenshot 2025-10-29 at 8 24 17 PM" src="https://github.com/user-attachments/assets/53566abb-29f8-4ac2-a004-59b52eda5902" />
 
+Case:
+<img width="879" height="666" alt="Screenshot 2025-10-30 at 11 01 43 PM" src="https://github.com/user-attachments/assets/d2d7a89f-d28a-4ebe-9c47-4f297ddeeed1" />
+
+
 | Quantity | Component Description                              |Price  |Links                  |
 |----------|----------------------------------------------------|-------|-----------------------|
 | 100x     | SK6812 MINI-E                                      |$7    |https://www.aliexpress.com/item/1005005193716172.html|
