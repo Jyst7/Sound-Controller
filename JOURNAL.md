@@ -65,3 +65,10 @@ I ended up changing up the schematic a bit to make it easier to wire but still i
 
   
 
+## 10/30/2025 11 PM - Designed case  
+
+I made a simple case for the pcb it lifts it a bit of the base and brings emphasis to the lights and the encoders. I think the simplicity of the case is pretty nice and minimalistic because the device is supposed to be a simple device that just does its job
+
+![Screenshot 2025-10-30 at 11.01.43 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjkwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--8c8ef0f9755f96421b66b9000625b610408c9f23/Screenshot%202025-10-30%20at%2011.01.43%E2%80%AFPM.png)
+  
+
